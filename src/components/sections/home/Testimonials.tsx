@@ -30,7 +30,7 @@ const Testimonials: React.FC = () => {
 	return (
 		<Section
 			title="What Our Clients Say"
-			subtitle="Don't just take our word for it. Here's what our clients have to say about working with Foz."
+			subtitle="Don't just take our word for it. Here's what our clients have to say about working with FOZ."
 			className="bg-gradient-to-br from-primary-900 to-primary-950 text-white"
 		>
 			<div className="relative max-w-4xl mx-auto">

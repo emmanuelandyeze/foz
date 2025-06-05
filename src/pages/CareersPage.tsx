@@ -22,7 +22,7 @@ const CareersPage: React.FC = () => {
 				<div className="container">
 					<div className="max-w-3xl mx-auto text-center">
 						<h1 className="text-4xl md:text-5xl font-bold mb-6">
-							Careers at Foz
+							Careers at FOZ
 						</h1>
 						<p className="text-xl text-white/80">
 							Join our team of talented professionals and
@@ -46,7 +46,7 @@ const CareersPage: React.FC = () => {
 							Our Culture
 						</h2>
 						<p className="text-lg text-neutral-600 dark:text-neutral-300 mb-6">
-							At Foz, we believe that great software is
+							At FOZ, we believe that great software is
 							built by great teams. We've created a culture
 							that fosters innovation, collaboration, and
 							continuous learning. We're committed to
@@ -66,7 +66,7 @@ const CareersPage: React.FC = () => {
 							communication, and celebrate both individual
 							achievements and team successes. If you're
 							looking for a workplace that challenges you to
-							grow while supporting your journey, Foz might
+							grow while supporting your journey, FOZ might
 							be the perfect fit for you.
 						</p>
 					</motion.div>
@@ -80,7 +80,7 @@ const CareersPage: React.FC = () => {
 					>
 						<img
 							src="https://images.pexels.com/photos/3184328/pexels-photo-3184328.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-							alt="Foz team collaboration"
+							alt="FOZ team collaboration"
 							className="w-full h-auto"
 						/>
 					</motion.div>
@@ -90,7 +90,7 @@ const CareersPage: React.FC = () => {
 			{/* Company Values */}
 			<Section
 				title="Our Values"
-				subtitle="These core principles guide everything we do at Foz."
+				subtitle="These core principles guide everything we do at FOZ."
 				className="bg-neutral-50 dark:bg-neutral-900"
 			>
 				<div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -292,7 +292,7 @@ const CareersPage: React.FC = () => {
 			{/* Application Process */}
 			<Section
 				title="Our Application Process"
-				subtitle="What to expect when you apply for a position at Foz."
+				subtitle="What to expect when you apply for a position at FOZ."
 			>
 				<div className="grid grid-cols-1 md:grid-cols-3 gap-8">
 					<motion.div

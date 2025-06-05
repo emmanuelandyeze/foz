@@ -51,7 +51,7 @@ const AboutPage: React.FC = () => {
 			year: '2018',
 			title: 'Founded in Lagos',
 			description:
-				'Foz was established with a vision to build world-class software solutions for African businesses.',
+				'FOZ was established with a vision to build world-class software solutions for African businesses.',
 		},
 		{
 			year: '2019',
@@ -69,7 +69,7 @@ const AboutPage: React.FC = () => {
 			year: '2021',
 			title: 'Regional Growth',
 			description:
-				'Expanded our client base to Ghana, Kenya, and South Africa, establishing Foz as a pan-African provider.',
+				'Expanded our client base to Ghana, Kenya, and South Africa, establishing FOZ as a pan-African provider.',
 		},
 		{
 			year: '2022',
@@ -104,7 +104,7 @@ const AboutPage: React.FC = () => {
 				<div className="container">
 					<div className="max-w-3xl mx-auto text-center">
 						<h1 className="text-4xl md:text-5xl font-bold mb-6">
-							About Foz
+							About FOZ
 						</h1>
 						<p className="text-xl text-white/80">
 							Building scalable software solutions for
@@ -127,7 +127,7 @@ const AboutPage: React.FC = () => {
 							Our Story
 						</h2>
 						<p className="text-lg text-neutral-600 dark:text-neutral-300 mb-6">
-							Founded in 2018 by Foluso Ogunfile, Foz
+							Founded in 2018 by Foluso Ogunfile, FOZ
 							was born out of a vision to create world-class
 							software solutions that address the unique
 							challenges faced by businesses in Africa while
@@ -158,7 +158,7 @@ const AboutPage: React.FC = () => {
 					>
 						<img
 							src="https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-							alt="Foz team working together"
+							alt="FOZ team working together"
 							className="w-full h-auto"
 						/>
 					</motion.div>
@@ -211,7 +211,7 @@ const AboutPage: React.FC = () => {
 			{/* Our Values */}
 			<Section
 				title="Our Values"
-				subtitle="These core principles guide everything we do at Foz."
+				subtitle="These core principles guide everything we do at FOZ."
 			>
 				<div className="grid grid-cols-1 md:grid-cols-2 gap-8">
 					{values.map((value, index) => (

@@ -134,7 +134,7 @@ const Header: React.FC = () => {
 							))}
 						</nav>
 						<div className="text-center text-neutral-500 dark:text-neutral-400 text-sm">
-							&copy; 2025 Foz
+							&copy; 2025 FOZ
 						</div>
 					</div>
 				</div>

@@ -31,7 +31,7 @@ const ServicesPage: React.FC = () => {
 						How We Can Help Your Business
 					</h2>
 					<p className="text-lg text-neutral-600 dark:text-neutral-300">
-						At Foz, we offer a wide range of software
+						At FOZ, we offer a wide range of software
 						development and technology services tailored to
 						meet the unique needs of businesses across
 						various industries. Our expertise spans web and

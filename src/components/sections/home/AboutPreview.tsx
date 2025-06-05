@@ -28,7 +28,7 @@ const AboutPreview: React.FC = () => {
 						transition={{ duration: 0.5 }}
 						className="text-3xl md:text-4xl font-bold mb-6"
 					>
-						About Foz
+						About FOZ
 					</motion.h2>
 
 					<motion.p
@@ -38,7 +38,7 @@ const AboutPreview: React.FC = () => {
 						transition={{ duration: 0.5, delay: 0.1 }}
 						className="text-lg text-neutral-600 dark:text-neutral-300 mb-6"
 					>
-						Founded in 2018, Foz is a leading software
+						Founded in 2018, FOZ is a leading software
 						development company based in Nigeria, focused on
 						creating cutting-edge solutions for businesses
 						across Africa and beyond.
@@ -101,7 +101,7 @@ const AboutPreview: React.FC = () => {
 				>
 					<img
 						src="https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-						alt="Foz team collaboration"
+						alt="FOZ team collaboration"
 						className="w-full h-auto"
 					/>
 				</motion.div>
