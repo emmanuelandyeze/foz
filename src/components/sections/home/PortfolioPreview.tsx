@@ -55,10 +55,11 @@ const PortfolioPreview: React.FC = () => {
 									: caseStudy.brief}
 							</p>
 							<Link
-								to={`/portfolio/${caseStudy.id}`}
+								to={`${caseStudy.link}`}
+								target='_blank'
 								className="inline-flex items-center text-primary-600 dark:text-primary-400 font-medium hover:underline"
 							>
-								View Case Study
+								View Project
 								<ArrowRight className="ml-2 h-4 w-4" />
 							</Link>
 						</div>
